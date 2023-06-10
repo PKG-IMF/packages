@@ -1,0 +1,15 @@
+{
+  "name":"sem",
+  "version":"2.0.0",
+  "author":"IMF",
+  "dependencies": [
+    {
+      "name":"sem",
+      "version":"2.~.0"
+    },
+    {
+      "name":"QUICK",
+      "version":"3.10.1"
+    }
+  ],
+}
